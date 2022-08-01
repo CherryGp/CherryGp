@@ -21,5 +21,5 @@
 
 
 <a href="https://github.com/cherryp/cherrygp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherrygp&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=120707&icon_color=FF66C4&bg_color=fed9fe" alt="Araceli's GitHub Stats" style="padding:10px"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cherrygp&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=120707&icon_color=FF66C4&bg_color=f7dfef" alt="Araceli's GitHub Stats" style="padding:10px"/></a>
 
