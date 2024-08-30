@@ -2,7 +2,7 @@
 
 <h3 align="left"> 💻 Backend Developer ⌨ </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherrygp&label=Profile%20views&color=0e75b6&style=flat" alt="cherrygp" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherrygp&label=Profile%20views&color=0e75b6&style=flat" alt="cherrygp" /> </p> -->
 
 - 🔭 I’m currently working on **Get Talent SFWT-Hackademy** 👩🏻‍💻
 
